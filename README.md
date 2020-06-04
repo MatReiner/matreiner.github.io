@@ -1,3 +1,3 @@
 # MatReiner
 
-[![Open in Repl.it](https://xpresso.matreiner.repl.co/a.svg?q=1)](https://repl.it/@MatReiner/matreiner)
+[![Open in Repl.it](https://xpresso.matreiner.repl.co/a.svg)](https://repl.it/@MatReiner/matreiner)
